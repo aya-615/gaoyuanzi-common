@@ -1,9 +1,9 @@
-module github.com/gaoyuanzi/gaoyuanzi-common
+module github.com/aya-615/gaoyuanzi-common
 
-go 1.17
+go 1.19
 
 require (
-	github.com/lib/pq v1.10.6
+	github.com/lib/pq v1.10.7
 	go.etcd.io/bbolt v1.3.6
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 )
